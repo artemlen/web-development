@@ -1,0 +1,52 @@
+body {
+    background:lightsalmon;
+}
+
+h1 {
+    margin-left: 40%;
+}
+.back {
+    margin-left: 2%;
+    width: 90%;
+    height: 145%;
+    background:lightgoldenrodyellow;
+    border-radius:10px;
+}
+
+.zagolovok_diva {
+    text-align: center;
+    font-size: larger;
+    padding-top: 10px;
+}
+
+
+
+.pole {
+    margin-left:45%;
+}
+
+.text {
+    text-align: center;
+}
+
+.select {
+    margin-left: 46%;
+}
+
+.checkbox {
+    margin-left: 1%;
+}
+
+laber {
+    padding-left: 47%;
+}
+
+.text_area {
+    margin-left: 37%;
+}
+
+.submit {
+    margin-left: 45%;
+    background-color:blue;
+    color: white;
+}
