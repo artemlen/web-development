@@ -1,0 +1,625 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&family=Oswald:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@500&display=swap');
+
+.navbar_1 {
+    background: none;
+    margin-top: -45%;
+    margin-left:55%;
+  }
+
+.navb-text {
+    
+    text-decoration: none;
+    font-family: Oswald;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 21px;
+    letter-spacing: 1.94px;
+
+    color: #FFFFFF;
+}
+
+.carousel_text {
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 27px;
+    text-align: center;
+    letter-spacing: 1.28px;
+
+    color: #FFFFFF;
+
+    mix-blend-mode: normal;
+    opacity: 0.8;
+}
+
+.carousel_title {
+    font-family: Oswald;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 72px;
+    line-height: 107px;
+    display: flex;
+    align-items: flex-end;
+    text-align: center;
+    letter-spacing: 4.608px;
+
+    color: #FFFFFF;
+}
+
+.carousel-caption-1 {
+    margin-bottom: 12%;
+}
+
+.carousel-indicators [data-bs-target] {
+    height: 0px;
+    color: white;
+    font-family: Oswald;
+    font-size: 15px;
+    
+    }
+    .carousel-indicators .active{
+    
+    font-size: 30px;
+    margin-top: -15px;
+    
+    }
+
+.sqr {
+    width: 309px;
+    height: 418px;
+    left: 403px;
+    top: 62px;
+
+    background: #4CAF50;
+    mix-blend-mode: normal;
+    opacity: 0.8;
+}
+
+.pic1_1 {
+    
+    width: 390px;
+    height: 411px;
+    left: -212px;
+    top: -19px;
+    
+    background: url(Image.png);
+    mix-blend-mode:normal ;
+    
+}
+
+.pic2 {
+    position: relative;
+    width: 309px;
+    height: 418px;
+    background: url(Image.png);
+    mix-blend-mode: normal;
+}
+
+.pic1_title {
+    width: 200px;
+    height: 53px;
+    left: 0px;
+    top: -4px;
+
+    font-family: Oswald;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 53px;
+    display: flex;
+    align-items: flex-end;
+    letter-spacing: 2.304px;
+
+    color: #333333;
+}
+
+.pic1_title2 {
+    width: 500px;
+    height: 57px;
+    left: 0px;
+    top: 53px;
+
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 42px;
+    line-height: 57px;
+    display: flex;
+    align-items: flex-end;
+    letter-spacing: 2.688px;
+
+    color: #504E4E;
+}
+
+.pic1_text {
+    width: 281px;
+    height: 75px;
+    left: 30px;
+    top: 0px;
+
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 15px;
+    line-height: 25px;
+    /* or 167% */
+    display: flex;
+    align-items: center;
+    letter-spacing: 1.26px;
+
+    color: #5B5858;
+}
+
+.palka {
+    width: 20px;
+    height: 2px;
+    background: black;
+}
+
+.card-title {
+
+    font-family: Oswald;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 30px;
+    /* identical to box height */
+    letter-spacing: 1.28px;
+    text-transform: uppercase;
+
+    color: #252525;
+}
+
+
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@400;500&display=swap');
+
+.Question_block_text_top {
+  font-family: 'Oswald', sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 36px;
+  /* identical to box height */
+  text-align: center;
+  letter-spacing: 2.66667px;
+
+  
+}
+
+.Question_block_text_bottom_left {
+    width: 279px;
+    height: 19px;
+    left: 312px;
+    top: 181px;
+
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 19px;
+    /* identical to box height */
+    text-align: center;
+    letter-spacing: 1.55556px;
+    color: #373737;
+   
+
+    mix-blend-mode: normal;
+    opacity: 0.8;
+}
+.Question_block_text_bottom_right {
+    width: 95px;
+    height: 19px;
+    left: 404.5px;
+    top: 181px;
+
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 19px;
+    /* identical to box height */
+
+    text-align: center;
+    letter-spacing: 1.55556px;
+
+    color: #FFFFFF;
+
+    mix-blend-mode: normal;
+    opacity: 0.8;
+}
+
+.bottom_block_text {
+  width: 259px;
+  height: 17px;
+  left: 0px;
+  top: 59px;
+
+  font-family: Oswald;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 13px;
+  line-height: 19px;
+
+  letter-spacing: 0.832px;
+
+  color: #FFFFFF;
+
+  mix-blend-mode: normal;
+  opacity: 0.5;
+}
+
+.end_text {
+width: 286px;
+height: 17px;
+left: 758px;
+top: 21px;
+
+font-family: Oswald;
+font-style: normal;
+font-weight: 300;
+font-size: 13px;
+line-height: 19px;
+letter-spacing: 0.832px;
+text-align: center;
+margin-bottom: 20px;
+
+color: #FFFFFF;
+
+mix-blend-mode: normal;
+opacity: 0.5;
+}
+
+.pic1 {
+  width: 590px;
+  height: 411px;
+  left: -212px;
+  top: -19px;
+
+  background: url(images/Bitmap.svj);
+  mix-blend-mode: normal;
+  opacity: 0.3;
+}
+
+.pic1_text_top {
+  width: 120px;
+  height: 53px;
+  left: 0px;
+  top: -4px;
+
+  font-family: Oswald;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 36px;
+  line-height: 53px;
+  letter-spacing: 2.304px;
+
+  color: #333333;
+}
+
+.pic1_text_center {
+  width: 228px;
+  height: 57px;
+  left: 0px;
+  top: 53px;
+
+  font-family: Open Sans;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 42px;
+  line-height: 57px;
+  display: flex;
+  align-items: flex-end;
+  letter-spacing: 2.688px;
+
+  color: #504E4E;
+}
+
+.Oval {
+    width: 50px;
+    height: 50px;
+    left: 275px;
+    top: 50px;
+
+    box-shadow: 0px 0px 20px #DBDBDB;
+}
+
+.read_more {
+    text-decoration: none;
+    font-family: Oswald;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 10px;
+    line-height: 15px;
+    /* identical to box height */
+    letter-spacing: 0.64px;
+    text-transform: uppercase;
+    color: #252525;
+    mix-blend-mode: normal;
+    opacity: 0.5;
+}
+
+.card-text {
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 25px;
+    /* or 208% */
+    display: flex;
+    align-items: center;
+    letter-spacing: 1.008px;
+
+    color: #777777;
+}
+
+.card-palka {
+    width: 35px;
+    height: 2px;
+    left: 0px;
+    top: 42px;
+
+    background: #252525;
+}
+
+.card {
+    border-radius: 10px;
+}
+
+.third_text {
+    width: 289px;
+    height: 142px;
+    left: 0px;
+    top: -12px;
+
+    font-family: Oswald;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 48px;
+    line-height: 71px;
+    display: flex;
+    align-items: flex-end;
+    letter-spacing: 3.072px;
+
+    color: #252525;
+}
+
+.third_palka {
+    width: 45px;
+    height: 2px;
+    left: 0px;
+    top: 72px;
+
+    background: #252525;
+}
+
+.navb-text-1 {
+    
+
+    text-decoration: none;
+    
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13px;
+    line-height: 18px;
+    /* identical to box height */
+    display: flex;
+    align-items: flex-end;
+    letter-spacing: 0.832px;
+    
+    color: #252525;
+    
+    mix-blend-mode: normal;
+    opacity: 0.3;
+}
+.navb-text-1-1 {
+    text-decoration: none;
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 13px;
+    line-height: 18px;
+    /* identical to box height */
+    display: flex;
+    align-items: flex-end;
+    letter-spacing: 0.832px;
+
+    color: #252525;
+}
+
+.Photography {
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 25px;
+    /* identical to box height */
+    display: flex;
+    align-items: flex-end;
+    text-align: right;
+    letter-spacing: 1.152px;
+
+    color: #252525;
+}
+
+.third-pic1-text {
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 13px;
+    line-height: 23px;
+    /* or 177% */
+    display: flex;
+    align-items: center;
+    text-align: right;
+    letter-spacing: 0.832px;
+
+    color: #C2C2C2;
+
+}
+
+.year-1 {
+    font-family: Oswald;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 48px;
+    line-height: 71px;
+    display: flex;
+    align-items: flex-end;
+    letter-spacing: 3.072px;
+    
+    color: #252525;
+}
+
+.view_more {
+    font-family: Oswald;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13px;
+    line-height: 19px;
+    display: flex;
+    align-items: flex-end;
+    text-align: right;
+    letter-spacing: 2px;
+
+    color: #252525;
+    text-decoration: none;
+
+}
+
+.r_m {
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13px;
+    line-height: 18px;
+    /* identical to box height */
+    display: flex;
+    align-items: flex-end;
+    letter-spacing: 0.832px;
+    text-decoration: none;
+    color: #252525;
+}
+
+.the_team {
+    font-family: Oswald;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 48px;
+    line-height: 71px;
+    display: flex;
+    align-items: flex-end;
+    letter-spacing: 3.072px;
+
+    color: #252525;
+}
+
+.fourth_text {
+    font-family: Oswald;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 27px;
+    /* identical to box height */
+    letter-spacing: 1.152px;
+
+    color: #252525;
+}
+
+.Creating_Director {
+    font-family: Oswald;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 27px;
+    /* identical to box height */
+    display: flex;
+    align-items: flex-end;
+    letter-spacing: 1.152px;
+
+    color: #252525;
+}
+
+.create_with {
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 25px;
+    /* identical to box height, or 208% */
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 1.008px;
+
+    color: #777777;
+
+}
+
+.our_s {
+
+font-family: Oswald;
+font-style: normal;
+font-weight: bold;
+font-size: 48px;
+line-height: 71px;
+letter-spacing: 3.072px;
+
+color: #252525;
+
+}
+
+.car-text {
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 31px;
+    /* or 221% */
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.896px;
+
+    color: #373737;
+}
+
+.mt {
+    
+    font-family: Oswald;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 27px;
+    /* identical to box height */
+    text-align: center;
+    letter-spacing: 1.152px;
+
+    color: #373737;
+}
+
+.mt2 {
+    font-family: Oswald;
+    font-style: normal;
+    font-weight:200;
+    font-size: 18px;
+    line-height: 25px;
+    /* identical to box height, or 208% */
+    align-items: center;
+    text-align: center;
+    letter-spacing: 1.008px;
+
+    color: #777777;
+}
+
+.card {
+    border-color: rgb(255, 255, 255) !important;
+}
+
+.card:hover {
+    border-color: rgb(113, 143, 141) !important;
+}
