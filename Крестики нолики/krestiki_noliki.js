@@ -1,10 +1,8 @@
-let permennaya , button ;
 
-//Функия для 1 клетки
+let permennaya , button ;
 
 //переменная для подсчета ходов
 let move = 0;
-
 
 
 function  cl_1 ()
